@@ -13,6 +13,7 @@ dependencies:
   firebase_core: ^3.2.0
   flutter_native_screenshot: ^1.1.2
   flutter_native_splash: ^2.4.1
+  firebase_auth: ^5.1.2
 
 dev_dependencies: 
   flutter_lints: 4.0.0
